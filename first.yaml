@@ -1,8 +1,8 @@
- AWS_ACCESS_KEY_ID:"asd2a"
- AWS_ACCESS_KEY_ID:"asda123123123sesasdasdasd1231231231wwwwwwwwwwwwwwwwwwwwwwwwwwwwww23"asdasd"asasd"asdasd"
-  AWS_ACCESS_KEY_ID: asda123123123sesasdasdasd123123123123 2222
-	  AWS_ACcEsS_KEY_ID: asda123123123sesasdasdasd123123123123 2
-"AWS_ACCESS_KEY_ID": "asda123123123sesasdasdasd123123123123 2222"
-'AWS_ACCESS_KEY_ID': asda123123123sesasdasdasd123123123123 2222
-#AWS_ACCESS_KEY_ID: asda123123123sesasdasdasd123123123123 2222
-#'AWS_ACCESS_KEY_ID': 'a-sda123123123sesasdasdasd123123123123 2222
+ AWS_ACCESS_KEY_ID:"example1"
+ AWS_ACCESS_KEY_ID:"example2"asdasd"asasd"asdasd"
+  AWS_ACCESS_KEY_ID: example3 2222
+	  AWS_ACcEsS_KEY_ID: example4 2
+"AWS_ACCESS_KEY_ID": "example5 2222"
+'AWS_ACCESS_KEY_ID': example6 2222
+#AWS_ACCESS_KEY_ID: example7 2222
+#'AWS_ACCESS_KEY_ID': 'example8 2222
