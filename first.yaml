@@ -1,12 +1,15 @@
  AWS_ACCESS_KEY_ID:"example1example1example1example1"
-  GOogleKey:"examexample1example1example1example1example1example1example1example1example1ple1"
-  AWS_ACCESS_KEY_ID:"examexample1example1example1example1example1ple1"
-  SECURET_API_KEY:"examexample1example1ple1"
-  API_KEY:"example1" Password:"exampexample1example1le1"
- AWS_ACCESS_KEY_ID:"examexample1example1ple2"asdasd"asaexample1example1sd"asdasd"
-  AWS_ACCESS_KEY_ID: example3 22example1example122
-	  AWS_ACcEsS_KEY_ID: example4 2
-"AWS_ACCESS_KEY_ID": "example5 22example1example122"
-'AWS_ACCESS_KEY_ID': example6 22example1example122
-#AWS_ACCESS_KEY_ID: example7 222example1example1example1example12
-#'AWS_ACCESS_KEY_ID': 'example8 22example1example122
+ GOogleKey:"examexample1example1example1example1example1example1example1example1example1ple1"
+ AWS_ACCESS_KEY_ID:"examexample1example1example1example1example1ple1"
+ SECURET_API_KEY:"examexample1example1ple1"
+ Secret:"thisisasecret"
+ please deposit the case in to supersecret.s3.amazonaws.com
+ -----BEGIN RSA PRIVATE KEY-----
+ abcdefg
+  -----END RSA PRIVATE KEY-----
+ API_KEY:"example1" Password:"exampexample1example1le1"
+ NTCredentials(helloworld)
+ client_secret:thisisaclientsecret
+ AMAZONKEY: AKIAKSLLAISKJDHUASAS
+ privatekey:thisisiaprivatekey
+ ANOTHER_PRIVATE_KEY:thisisanotherprivatekey
